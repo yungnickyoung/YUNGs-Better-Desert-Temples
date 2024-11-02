@@ -1,0 +1,17 @@
+{
+  "YUNG's Better Desert Temples": "YUNG's Melhores Templos do Deserto",
+  "Somewhere deep in the desert...": "Em algum lugar profundo no deserto...",
+  "Eternal Slumber": "Sono Eterno",
+  "Slay the Pharaoh and free the Temple from his curse": "Derrote o Faraó e liberte o Templo de sua maldição",
+  "An Ancient Tomb": "Uma Tumba Antiga",
+  "Discover a Better Desert Temple": "Descubra um Templo do Deserto Melhorado",
+
+  "Use /locate structure betterdeserttemples:desert_temple instead!": "Use /locate structure betterdeserttemples:desert_temple em vez disso!",
+
+  "text.autoconfig.betterdeserttemples-fabric-1_21.title": "YUNG's Melhores Templos do Deserto",
+  "text.autoconfig.betterdeserttemples-fabric-1_21.option.general.disableVanillaPyramids": "Desativar Pirâmides do Vanilla",
+  "text.autoconfig.betterdeserttemples-fabric-1_21.option.general.disableVanillaPyramids.@Tooltip": "Se as pirâmides do deserto do Vanilla devem ou não ser desativadas.",
+  "text.autoconfig.betterdeserttemples-fabric-1_21.option.general.applyMiningFatigue": "Aplicar Fadiga de Mineração",
+  "text.autoconfig.betterdeserttemples-fabric-1_21.option.general.applyMiningFatigue.@Tooltip[0]": "Se a fadiga de mineração é aplicada aos jogadores no templo",
+  "text.autoconfig.betterdeserttemples-fabric-1_21.option.general.applyMiningFatigue.@Tooltip[1]": "se ele ainda não foi limpo."
+}
