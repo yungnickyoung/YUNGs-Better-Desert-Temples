@@ -1,15 +1,17 @@
 {
-  "YUNG's Better Desert Temples": "Улучшенные пустынные храмы YUNG'a",
-  "Somewhere deep in the desert...": "Где-то глубоко в пустыне…",
-  "Eternal Slumber": "Вечный сон",
-  "Slay the Pharaoh and free the Temple from his curse": "Убейте фараона и освободите храм от его проклятия",
-  "An Ancient Tomb": "Древняя гробница",
-  "Discover a Better Desert Temple": "Откройте для себя улучшенный пустынный храм",  
+  "yungscavebiomes.advancements.root.title": "Улучшенные пустынные храмы YUNG'a",
+  "yungscavebiomes.advancements.root.description": "Где-то глубоко в пустыне...",
+  "yungscavebiomes.advancements.temple_clear.title": "Вечный сон",
+  "yungscavebiomes.advancements.temple_clear.description": "Убейте фараона и освободите храм от его проклятия",
+  "yungscavebiomes.advancements.temple_entry.title": "Древняя гробница",
+  "yungscavebiomes.advancements.temple_entry.description": "Откройте для себя улучшенный пустынный храм",
+
   "Use /locate structure betterdeserttemples:desert_temple instead!": "Используйте /locate structure betterdeserttemples:desert_temple вместо этого!",
+
   "text.autoconfig.betterdeserttemples-fabric-1_21.title": "Улучшенные пустынные храмы YUNG'а",
   "text.autoconfig.betterdeserttemples-fabric-1_21.option.general.disableVanillaPyramids": "Отключить ванильные пустынные храмы",
   "text.autoconfig.betterdeserttemples-fabric-1_21.option.general.disableVanillaPyramids.@Tooltip": "Должны ли быть отключены ванильные пустынные храмы.",
   "text.autoconfig.betterdeserttemples-fabric-1_21.option.general.applyMiningFatigue": "Накладывать усталость",
-  "text.autoconfig.betterdeserttemples-fabric-1_21.option.general.applyMiningFatigue.@Tooltip[0]": "Должен ли накладываться эффект усталости на игроков, находящихся в храме",
+  "text.autoconfig.betterdeserttemples-fabric-1_21.option.general.applyMiningFatigue.@Tooltip[0]": "Должен ли накладываться эффект усталости на находящихся в храме игроков,",
   "text.autoconfig.betterdeserttemples-fabric-1_21.option.general.applyMiningFatigue.@Tooltip[1]": "если он ещё не был снят."
 }
