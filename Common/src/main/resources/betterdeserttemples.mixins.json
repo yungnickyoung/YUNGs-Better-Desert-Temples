@@ -12,6 +12,7 @@
     "accessor.BoundingBoxAccessor",
     "accessor.ChunkGeneratorStructureStateAccessor",
     "accessor.StructureProcessorAccessor",
+    "pharaoh.EntityMixin",
     "pharaoh.HuskMixin",
     "pharaoh.LivingEntityMixin",
     "pharaoh.ZombieMixin"
