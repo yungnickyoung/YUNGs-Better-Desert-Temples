@@ -6,10 +6,12 @@
       "id": "minecraft:totem_of_undying"
     },
     "title": {
-      "translate": "Eternal Slumber"
+      "translate": "yungscavebiomes.advancements.temple_clear.title",
+      "fallback": "Eternal Slumber"
     },
     "description": {
-      "translate": "Slay the Pharaoh and free the Temple from his curse"
+      "translate": "yungscavebiomes.advancements.temple_clear.description",
+      "fallback": "Slay the Pharaoh and free the Temple from his curse"
     },
     "frame": "challenge",
     "show_toast": true,

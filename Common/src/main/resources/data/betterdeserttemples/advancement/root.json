@@ -5,10 +5,12 @@
       "id": "minecraft:chiseled_sandstone"
     },
     "title": {
-      "translate": "YUNG's Better Desert Temples"
+      "translate": "yungscavebiomes.advancements.root.title",
+      "fallback": "YUNG's Better Desert Temples"
     },
     "description": {
-      "translate": "Somewhere deep in the desert..."
+      "translate": "yungscavebiomes.advancements.root.description",
+      "fallback": "Somewhere deep in the desert..."
     },
     "show_toast": false,
     "announce_to_chat": false,
