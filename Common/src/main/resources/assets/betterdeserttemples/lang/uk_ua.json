@@ -1,6 +1,14 @@
 {
-  "Use /locate structure betterdeserttemples:desert_temple instead!": "Використовуй /locate structure betterdeserttemples:desert_temple !",
-  "text.autoconfig.betterdeserttemples-fabric-1_21.title": "YUNG's Кращі пустельні храми",
+  "betterdeserttemples.advancements.root.title": "Кращі пустельні храми YUNG'а",
+  "betterdeserttemples.advancements.root.description": "Десь глибоко в пустелі...",
+  "betterdeserttemples.advancements.temple_clear.title": "Вічний сон",
+  "betterdeserttemples.advancements.temple_clear.description": "Убийте фараона i звільни храм від його прокляття",
+  "betterdeserttemples.advancements.temple_entry.title": "Стародавня гробниця",
+  "betterdeserttemples.advancements.temple_entry.description": "Відкрийте для себе Кращий пустельні храм",
+
+  "Use /locate structure betterdeserttemples:desert_temple instead!": "Використовуй /locate structure betterdeserttemples:desert_temple!",
+
+  "text.autoconfig.betterdeserttemples-fabric-1_21.title": "Кращі пустельні храми YUNG'а",
   "text.autoconfig.betterdeserttemples-fabric-1_21.option.general.disableVanillaPyramids": "Заборонити стандартні піраміди",
   "text.autoconfig.betterdeserttemples-fabric-1_21.option.general.disableVanillaPyramids.@Tooltip": "Чи потрібно вимкнути стандартні пустельні храми.",
   "text.autoconfig.betterdeserttemples-fabric-1_21.option.general.applyMiningFatigue": "Застосувати втому",

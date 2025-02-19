@@ -1,10 +1,10 @@
 {
-  "yungscavebiomes.advancements.root.title": "YUNG's Melhores Templos do Deserto",
-  "yungscavebiomes.advancements.root.description": "Em algum lugar profundo no deserto...",
-  "yungscavebiomes.advancements.temple_clear.title": "Sono Eterno",
-  "yungscavebiomes.advancements.temple_clear.description": "Derrote o Faraó e liberte o Templo de sua maldição",
-  "yungscavebiomes.advancements.temple_entry.title": "Uma Tumba Antiga",
-  "yungscavebiomes.advancements.temple_entry.description": "Descubra um Templo do Deserto Melhorado",
+  "betterdeserttemples.advancements.root.title": "YUNG's Melhores Templos do Deserto",
+  "betterdeserttemples.advancements.root.description": "Em algum lugar profundo no deserto...",
+  "betterdeserttemples.advancements.temple_clear.title": "Sono Eterno",
+  "betterdeserttemples.advancements.temple_clear.description": "Derrote o Faraó e liberte o Templo de sua maldição",
+  "betterdeserttemples.advancements.temple_entry.title": "Uma Tumba Antiga",
+  "betterdeserttemples.advancements.temple_entry.description": "Descubra um Templo do Deserto Melhorado",
 
   "Use /locate structure betterdeserttemples:desert_temple instead!": "Use /locate structure betterdeserttemples:desert_temple em vez disso!",
 

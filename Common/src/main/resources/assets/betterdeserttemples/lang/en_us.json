@@ -1,10 +1,10 @@
 {
-  "yungscavebiomes.advancements.root.title": "YUNG's Better Desert Temples",
-  "yungscavebiomes.advancements.root.description": "Somewhere deep in the desert...",
-  "yungscavebiomes.advancements.temple_clear.title": "Eternal Slumber",
-  "yungscavebiomes.advancements.temple_clear.description": "Slay the Pharaoh and free the Temple from his curse",
-  "yungscavebiomes.advancements.temple_entry.title": "An Ancient Tomb",
-  "yungscavebiomes.advancements.temple_entry.description": "Discover a Better Desert Temple",
+  "betterdeserttemples.advancements.root.title": "YUNG's Better Desert Temples",
+  "betterdeserttemples.advancements.root.description": "Somewhere deep in the desert...",
+  "betterdeserttemples.advancements.temple_clear.title": "Eternal Slumber",
+  "betterdeserttemples.advancements.temple_clear.description": "Slay the Pharaoh and free the Temple from his curse",
+  "betterdeserttemples.advancements.temple_entry.title": "An Ancient Tomb",
+  "betterdeserttemples.advancements.temple_entry.description": "Discover a Better Desert Temple",
 
   "Use /locate structure betterdeserttemples:desert_temple instead!": "Use /locate structure betterdeserttemples:desert_temple instead!",
 
