@@ -6,11 +6,11 @@
       "id": "minecraft:golden_sword"
     },
     "title": {
-      "translate": "yungscavebiomes.advancements.temple_entry.title",
+      "translate": "betterdeserttemples.advancements.temple_entry.title",
       "fallback": "An Ancient Tomb"
     },
     "description": {
-      "translate": "yungscavebiomes.advancements.temple_entry.description",
+      "translate": "betterdeserttemples.advancements.temple_entry.description",
       "fallback": "Discover a Better Desert Temple"
     },
     "show_toast": true,

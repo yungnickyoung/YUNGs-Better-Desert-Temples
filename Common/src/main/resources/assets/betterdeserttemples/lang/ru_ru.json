@@ -1,10 +1,10 @@
 {
-  "yungscavebiomes.advancements.root.title": "Улучшенные пустынные храмы YUNG'a",
-  "yungscavebiomes.advancements.root.description": "Где-то глубоко в пустыне...",
-  "yungscavebiomes.advancements.temple_clear.title": "Вечный сон",
-  "yungscavebiomes.advancements.temple_clear.description": "Убейте фараона и освободите храм от его проклятия",
-  "yungscavebiomes.advancements.temple_entry.title": "Древняя гробница",
-  "yungscavebiomes.advancements.temple_entry.description": "Откройте для себя улучшенный пустынный храм",
+  "betterdeserttemples.advancements.root.title": "Улучшенные пустынные храмы YUNG'a",
+  "betterdeserttemples.advancements.root.description": "Где-то глубоко в пустыне...",
+  "betterdeserttemples.advancements.temple_clear.title": "Вечный сон",
+  "betterdeserttemples.advancements.temple_clear.description": "Убейте фараона и освободите храм от его проклятия",
+  "betterdeserttemples.advancements.temple_entry.title": "Древняя гробница",
+  "betterdeserttemples.advancements.temple_entry.description": "Откройте для себя улучшенный пустынный храм",
 
   "Use /locate structure betterdeserttemples:desert_temple instead!": "Используйте /locate structure betterdeserttemples:desert_temple вместо этого!",
 
